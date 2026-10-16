@@ -1,0 +1,852 @@
+[
+  {
+    "name": "鲁班七号",
+    "tier": 5,
+    "camp": "逐鹿",
+    "sourceUrl": "https://www.sovipai.com/assets/hero/1121.png",
+    "path": "棋子头像/鲁班七号.png",
+    "width": 192,
+    "height": 192,
+    "sha256": "8B5034F4B0D5AD431B309885A5B91BE8F776E4B40747C0F4DDDC441690C885F6"
+  },
+  {
+    "name": "吕布",
+    "tier": 5,
+    "camp": "三分之地",
+    "sourceUrl": "https://www.sovipai.com/assets/hero/1231.png",
+    "path": "棋子头像/吕布.png",
+    "width": 192,
+    "height": 192,
+    "sha256": "1029F2A541884BDE44CA1F5646AD3039A75B97662844CF995CDCD04326F43BB5"
+  },
+  {
+    "name": "周瑜",
+    "tier": 5,
+    "camp": "三分之地",
+    "sourceUrl": "https://www.sovipai.com/assets/hero/1241.png",
+    "path": "棋子头像/周瑜.png",
+    "width": 192,
+    "height": 192,
+    "sha256": "DC7EFD7398564878BFA802AFF92EC891FF64355DDC50F31989AC94A6EC24D646"
+  },
+  {
+    "name": "武则天",
+    "tier": 5,
+    "camp": "河洛",
+    "sourceUrl": "https://www.sovipai.com/assets/hero/1361.png",
+    "path": "棋子头像/武则天.png",
+    "width": 192,
+    "height": 192,
+    "sha256": "183BB5EC78024A59DE063CB869C067FC4A2903E864F7D28FA9D297D8566FBC0C"
+  },
+  {
+    "name": "露娜",
+    "tier": 5,
+    "camp": "日落海",
+    "sourceUrl": "https://www.sovipai.com/assets/hero/1461.png",
+    "path": "棋子头像/露娜.png",
+    "width": 192,
+    "height": 192,
+    "sha256": "015864F5B9E1B447ECEB901E3ADE5B2F338615088978C2ED4E3A7AAD02FCD6BE"
+  },
+  {
+    "name": "姜子牙",
+    "tier": 5,
+    "camp": "无阵营",
+    "sourceUrl": "https://www.sovipai.com/assets/hero/1481.png",
+    "path": "棋子头像/姜子牙.png",
+    "width": 192,
+    "height": 192,
+    "sha256": "5F8B44648F8EABC6213DADE08F50FD270C5C7BE30D505C34507F9B515ACF02C5"
+  },
+  {
+    "name": "花木兰",
+    "tier": 5,
+    "camp": "河洛",
+    "sourceUrl": "https://www.sovipai.com/assets/hero/1541.png",
+    "path": "棋子头像/花木兰.png",
+    "width": 192,
+    "height": 192,
+    "sha256": "B2C6D6C384FCE77DDA0A3B4DE175E7F75BEA960C4E8C33FD5EB6D2D4FC26F313"
+  },
+  {
+    "name": "杨玉环",
+    "tier": 5,
+    "camp": "无阵营",
+    "sourceUrl": "https://www.sovipai.com/assets/hero/1761.png",
+    "path": "棋子头像/杨玉环.png",
+    "width": 192,
+    "height": 192,
+    "sha256": "48B5A66C27C4856C52B489B92BEF9A42A46E1D652E08A0C8239902CD7C85AD7E"
+  },
+  {
+    "name": "东皇太一",
+    "tier": 5,
+    "camp": "大河流域",
+    "sourceUrl": "https://www.sovipai.com/assets/hero/1871.png",
+    "path": "棋子头像/东皇太一.png",
+    "width": 192,
+    "height": 192,
+    "sha256": "AA32371E43416B19CEF0699C9C90CB967E13B5974B2496F4F80C359D006B1777"
+  },
+  {
+    "name": "敖隐",
+    "tier": 5,
+    "camp": "大河流域",
+    "sourceUrl": "https://www.sovipai.com/assets/hero/5191.png",
+    "path": "棋子头像/敖隐.png",
+    "width": 192,
+    "height": 192,
+    "sha256": "2BD69DF224825EED2D4B46A3437CC70169D0AE974416D67309F1690C045EA67C"
+  },
+  {
+    "name": "海月",
+    "tier": 5,
+    "camp": "无阵营",
+    "sourceUrl": "https://www.sovipai.com/assets/hero/5211.png",
+    "path": "棋子头像/海月.png",
+    "width": 192,
+    "height": 192,
+    "sha256": "228C5801B9AB4168D590C50FA8EBAE3F96BF16DCFA8FEB038C296AAD9BAF327F"
+  },
+  {
+    "name": "鲁班大师",
+    "tier": 5,
+    "camp": "逐鹿",
+    "sourceUrl": "https://www.sovipai.com/assets/hero/5251.png",
+    "path": "棋子头像/鲁班大师.png",
+    "width": 192,
+    "height": 192,
+    "sha256": "3B2B61939466F3B608773CCDF20F586564BA00D73B128CB3E38AB7A2EF0B4846"
+  },
+  {
+    "name": "司空震",
+    "tier": 5,
+    "camp": "河洛",
+    "sourceUrl": "https://www.sovipai.com/assets/hero/5371.png",
+    "path": "棋子头像/司空震.png",
+    "width": 192,
+    "height": 192,
+    "sha256": "1EEF4AE4ED341F3F132B34537D7A24502BD3CCBDC321DBF62C48A036E91EBE46"
+  },
+  {
+    "name": "海诺",
+    "tier": 5,
+    "camp": "日落海",
+    "sourceUrl": "https://www.sovipai.com/assets/hero/5631.png",
+    "path": "棋子头像/海诺.png",
+    "width": 192,
+    "height": 192,
+    "sha256": "F99E5937014F824D5CAD9FE68AA91951DE7F1FBF2C7759D60A7D74A9B6D35A3A"
+  },
+  {
+    "name": "小乔",
+    "tier": 4,
+    "camp": "三分之地",
+    "sourceUrl": "https://www.sovipai.com/assets/hero/1061.png",
+    "path": "棋子头像/小乔.png",
+    "width": 192,
+    "height": 192,
+    "sha256": "9F4F38BB78849CDE25F6DC200D0B4417D466933AEE31921568A2171A01839C19"
+  },
+  {
+    "name": "嬴政",
+    "tier": 4,
+    "camp": "逐鹿",
+    "sourceUrl": "https://www.sovipai.com/assets/hero/1101.png",
+    "path": "棋子头像/嬴政.png",
+    "width": 192,
+    "height": 192,
+    "sha256": "773AF926A7F806245B90CD7D130BEE65455AA99B8512A320A769239EBC33059B"
+  },
+  {
+    "name": "庄周",
+    "tier": 4,
+    "camp": "逐鹿",
+    "sourceUrl": "https://www.sovipai.com/assets/hero/1131.png",
+    "path": "棋子头像/庄周.png",
+    "width": 192,
+    "height": 192,
+    "sha256": "FD7E28D2550E5C41371803F2EE2E4D1A41C0BABB3AF47DD9B68609BC3BDE7011"
+  },
+  {
+    "name": "扁鹊",
+    "tier": 4,
+    "camp": "逐鹿",
+    "sourceUrl": "https://www.sovipai.com/assets/hero/1191.png",
+    "path": "棋子头像/扁鹊.png",
+    "width": 192,
+    "height": 192,
+    "sha256": "F3C2A2A1B397D64709B43B07BDFD8BCF567ED77BEDAE05C3D9AA003085BF1569"
+  },
+  {
+    "name": "甄姬",
+    "tier": 4,
+    "camp": "三分之地",
+    "sourceUrl": "https://www.sovipai.com/assets/hero/1271.png",
+    "path": "棋子头像/甄姬.png",
+    "width": 192,
+    "height": 192,
+    "sha256": "BC3DA291D2F9B9FE35A3A40979514713CB2FE6B38970708CB9CB40D31E92F69D"
+  },
+  {
+    "name": "李白",
+    "tier": 4,
+    "camp": "河洛",
+    "sourceUrl": "https://www.sovipai.com/assets/hero/1311.png",
+    "path": "棋子头像/李白.png",
+    "width": 192,
+    "height": 192,
+    "sha256": "6610AA05F3603107D59A1AF76C70AC6B5E6894AB7D431EB175BDE9F87C91830E"
+  },
+  {
+    "name": "刘邦",
+    "tier": 4,
+    "camp": "大河流域",
+    "sourceUrl": "https://www.sovipai.com/assets/hero/1491.png",
+    "path": "棋子头像/刘邦.png",
+    "width": 192,
+    "height": 192,
+    "sha256": "4FEFCDA90726BF55DDD32FDB42710177E2CEAE399B1D5AB097DA81390797C622"
+  },
+  {
+    "name": "韩信",
+    "tier": 4,
+    "camp": "大河流域",
+    "sourceUrl": "https://www.sovipai.com/assets/hero/1501.png",
+    "path": "棋子头像/韩信.png",
+    "width": 192,
+    "height": 192,
+    "sha256": "37C9EEF7FF46BF546FB28B293E0FD7DE1A397A042743AA7247C1FB877C928B17"
+  },
+  {
+    "name": "孙悟空",
+    "tier": 4,
+    "camp": "无阵营",
+    "sourceUrl": "https://www.sovipai.com/assets/hero/1671.png",
+    "path": "棋子头像/孙悟空.png",
+    "width": 192,
+    "height": 192,
+    "sha256": "E944D5D8C6B8A9473F1B6D4E11858633AB2F525BD627B960EF24873E8868DF0F"
+  },
+  {
+    "name": "雅典娜",
+    "tier": 4,
+    "camp": "日落海",
+    "sourceUrl": "https://www.sovipai.com/assets/hero/1831.png",
+    "path": "棋子头像/雅典娜.png",
+    "width": 192,
+    "height": 192,
+    "sha256": "0C369D8E2ED619B201FE26A04200D8CBB3ECE154111F6859D3114CA212237CEE"
+  },
+  {
+    "name": "太乙真人",
+    "tier": 4,
+    "camp": "无阵营",
+    "sourceUrl": "https://www.sovipai.com/assets/hero/1861.png",
+    "path": "棋子头像/太乙真人.png",
+    "width": 192,
+    "height": 192,
+    "sha256": "A966C5F5E1F4E9AC5FCC75AA6523AC90236A7A882DBA880995A531744F7FA10D"
+  },
+  {
+    "name": "诸葛亮",
+    "tier": 4,
+    "camp": "三分之地",
+    "sourceUrl": "https://www.sovipai.com/assets/hero/1901.png",
+    "path": "棋子头像/诸葛亮.png",
+    "width": 192,
+    "height": 192,
+    "sha256": "C9C149BCF4F210DD7B864B7097EADB4B940E38D30A5EEEA9CA1208CE97BE3172"
+  },
+  {
+    "name": "艾琳",
+    "tier": 4,
+    "camp": "日落海",
+    "sourceUrl": "https://www.sovipai.com/assets/hero/3551.png",
+    "path": "棋子头像/艾琳.png",
+    "width": 192,
+    "height": 192,
+    "sha256": "A9DDCC0CE0E6F91D38B27C9962633764693515DD7D7B5AEFB113108BDF242C4E"
+  },
+  {
+    "name": "李信",
+    "tier": 4,
+    "camp": "河洛",
+    "sourceUrl": "https://www.sovipai.com/assets/hero/5071.png",
+    "path": "棋子头像/李信.png",
+    "width": 192,
+    "height": 192,
+    "sha256": "B51AB0CF525CDA86C40908E83746AA632AF679AEEC4952D454EDF248998CD28A"
+  },
+  {
+    "name": "上官婉儿",
+    "tier": 4,
+    "camp": "河洛",
+    "sourceUrl": "https://www.sovipai.com/assets/hero/5131.png",
+    "path": "棋子头像/上官婉儿.png",
+    "width": 192,
+    "height": 192,
+    "sha256": "F1616B67B2D8A7EFAC67A2CC83B7D0346E56EE3CF6A332FD6B38C77B23EEB130"
+  },
+  {
+    "name": "大司命",
+    "tier": 4,
+    "camp": "大河流域",
+    "sourceUrl": "https://www.sovipai.com/assets/hero/5171.png",
+    "path": "棋子头像/大司命.png",
+    "width": 192,
+    "height": 192,
+    "sha256": "160C01587E37C51B676269D9C4AD687A3FF08688AB19CA285E7689E8C295D270"
+  },
+  {
+    "name": "蒙犽",
+    "tier": 4,
+    "camp": "逐鹿",
+    "sourceUrl": "https://www.sovipai.com/assets/hero/5241.png",
+    "path": "棋子头像/蒙犽.png",
+    "width": 192,
+    "height": 192,
+    "sha256": "F212E343BD4CD431F6B43AD9F2E40B7FBB83C9EE04713A8B933A3EE80E7DE1FD"
+  },
+  {
+    "name": "莱西奥",
+    "tier": 4,
+    "camp": "日落海",
+    "sourceUrl": "https://www.sovipai.com/assets/hero/5451.png",
+    "path": "棋子头像/莱西奥.png",
+    "width": 192,
+    "height": 192,
+    "sha256": "5F88B5656AEA0D5426834C8BD338F43A564F6DA06A16ED5A7A38B4A22FBBA45B"
+  },
+  {
+    "name": "刘禅",
+    "tier": 3,
+    "camp": "三分之地",
+    "sourceUrl": "https://www.sovipai.com/assets/hero/1141.png",
+    "path": "棋子头像/刘禅.png",
+    "width": 192,
+    "height": 192,
+    "sha256": "D641A4D4DEAF87C45A4FB85E2DD18CE61DE8C6B3F291AC6F08E41DF1BDD9613A"
+  },
+  {
+    "name": "阿轲",
+    "tier": 3,
+    "camp": "无阵营",
+    "sourceUrl": "https://www.sovipai.com/assets/hero/1161.png",
+    "path": "棋子头像/阿轲.png",
+    "width": 192,
+    "height": 192,
+    "sha256": "E65A862C2B587F987D5F6E1BE155BA6D8037C0B104C82DFF9AB3D2D1E8140A88"
+  },
+  {
+    "name": "白起",
+    "tier": 3,
+    "camp": "逐鹿",
+    "sourceUrl": "https://www.sovipai.com/assets/hero/1201.png",
+    "path": "棋子头像/白起.png",
+    "width": 192,
+    "height": 192,
+    "sha256": "84413AF9BEC341FE3A8E5291DB15F053382A7CE1A4118A4DD1FA6B43274B71D8"
+  },
+  {
+    "name": "狄仁杰",
+    "tier": 3,
+    "camp": "河洛",
+    "sourceUrl": "https://www.sovipai.com/assets/hero/1331.png",
+    "path": "棋子头像/狄仁杰.png",
+    "width": 192,
+    "height": 192,
+    "sha256": "EBBA3F8DD65EB742C981A6C2F062F1A4462BBAEFC8F2F21D82CE52D2A8F7C514"
+  },
+  {
+    "name": "老夫子",
+    "tier": 3,
+    "camp": "逐鹿",
+    "sourceUrl": "https://www.sovipai.com/assets/hero/1391.png",
+    "path": "棋子头像/老夫子.png",
+    "width": 192,
+    "height": 192,
+    "sha256": "393FDE0379C47BD3AC3DE6044ECAD6A26572EC7E52E973B65DB5843919ED6BAC"
+  },
+  {
+    "name": "貂蝉",
+    "tier": 3,
+    "camp": "三分之地",
+    "sourceUrl": "https://www.sovipai.com/assets/hero/1411.png",
+    "path": "棋子头像/貂蝉.png",
+    "width": 192,
+    "height": 192,
+    "sha256": "5BDB5D42EAED1EA48521E5BDE8304B74BBCA33484457C0D250F27F42A212E96F"
+  },
+  {
+    "name": "安琪拉",
+    "tier": 3,
+    "camp": "日落海",
+    "sourceUrl": "https://www.sovipai.com/assets/hero/1421.png",
+    "path": "棋子头像/安琪拉.png",
+    "width": 192,
+    "height": 192,
+    "sha256": "A4DFF511E9DE04D28EE5C3CD53C833A8992BAD28C7688FD4EC1CA07B4CF13179"
+  },
+  {
+    "name": "程咬金",
+    "tier": 3,
+    "camp": "河洛",
+    "sourceUrl": "https://www.sovipai.com/assets/hero/1441.png",
+    "path": "棋子头像/程咬金.png",
+    "width": 192,
+    "height": 192,
+    "sha256": "389288422D5BC8F238DAF62719DE08F1B9F7BD191C346819EF07C903272191F9"
+  },
+  {
+    "name": "张良",
+    "tier": 3,
+    "camp": "大河流域",
+    "sourceUrl": "https://www.sovipai.com/assets/hero/1561.png",
+    "path": "棋子头像/张良.png",
+    "width": 192,
+    "height": 192,
+    "sha256": "C4C388825FCAB87D673D3B6662D36A06F15CA9D90C67B829E221402BDE121521"
+  },
+  {
+    "name": "朵莉亚",
+    "tier": 3,
+    "camp": "日落海",
+    "sourceUrl": "https://www.sovipai.com/assets/hero/1591.png",
+    "path": "棋子头像/朵莉亚.png",
+    "width": 192,
+    "height": 192,
+    "sha256": "59B91C6A23332EBEE2E629012C5CC18CA241FBD9C6985C3858A28C0B05EC4F39"
+  },
+  {
+    "name": "亚瑟",
+    "tier": 3,
+    "camp": "日落海",
+    "sourceUrl": "https://www.sovipai.com/assets/hero/1661.png",
+    "path": "棋子头像/亚瑟.png",
+    "width": 192,
+    "height": 192,
+    "sha256": "F23E854273E36FB1608D4942357CB88B747F891136FBBF67F86F25E7E074EDFD"
+  },
+  {
+    "name": "钟馗",
+    "tier": 3,
+    "camp": "河洛",
+    "sourceUrl": "https://www.sovipai.com/assets/hero/1751.png",
+    "path": "棋子头像/钟馗.png",
+    "width": 192,
+    "height": 192,
+    "sha256": "0E13E7718DA553D20980DBFF987B1D66ECB1B9784B746590E35732354E57E7C1"
+  },
+  {
+    "name": "苍",
+    "tier": 3,
+    "camp": "无阵营",
+    "sourceUrl": "https://www.sovipai.com/assets/hero/1771.png",
+    "path": "棋子头像/苍.png",
+    "width": 192,
+    "height": 192,
+    "sha256": "55A1BACD90DB6FA98D56001CD3644C2D2DBD3AB2AC051214ADF9E38DCF551177"
+  },
+  {
+    "name": "铠",
+    "tier": 3,
+    "camp": "河洛",
+    "sourceUrl": "https://www.sovipai.com/assets/hero/1931.png",
+    "path": "棋子头像/铠.png",
+    "width": 192,
+    "height": 192,
+    "sha256": "C1F6970D7DBAA8968017F2E7822E3D24DB0FE5C79DF41A1EB19ED92961C57595"
+  },
+  {
+    "name": "明世隐",
+    "tier": 3,
+    "camp": "无阵营",
+    "sourceUrl": "https://www.sovipai.com/assets/hero/5011.png",
+    "path": "棋子头像/明世隐.png",
+    "width": 192,
+    "height": 192,
+    "sha256": "86B80E7B71F6D4287872B7D5DE54834592F2F2FB1DCB762BE645515BE6B599DC"
+  },
+  {
+    "name": "裴擒虎",
+    "tier": 3,
+    "camp": "无阵营",
+    "sourceUrl": "https://www.sovipai.com/assets/hero/5021.png",
+    "path": "棋子头像/裴擒虎.png",
+    "width": 192,
+    "height": 192,
+    "sha256": "49859FDC857F7BE007306BE334E9B081174B08BE22CA44DF11EC3D67F3B1604F"
+  },
+  {
+    "name": "瑶",
+    "tier": 3,
+    "camp": "大河流域",
+    "sourceUrl": "https://www.sovipai.com/assets/hero/5051.png",
+    "path": "棋子头像/瑶.png",
+    "width": 192,
+    "height": 192,
+    "sha256": "1CE3E05EA2E1E0FE8A16B2D4793BA3608383E02F700E5F29DD6FB84FAB4BE867"
+  },
+  {
+    "name": "云中君",
+    "tier": 3,
+    "camp": "大河流域",
+    "sourceUrl": "https://www.sovipai.com/assets/hero/5061.png",
+    "path": "棋子头像/云中君.png",
+    "width": 192,
+    "height": 192,
+    "sha256": "E2023DC4E210B55BADBC635B1F8352893F0352D6F79FF797893E7C6A4D5872A8"
+  },
+  {
+    "name": "猪八戒",
+    "tier": 3,
+    "camp": "无阵营",
+    "sourceUrl": "https://www.sovipai.com/assets/hero/5111.png",
+    "path": "棋子头像/猪八戒.png",
+    "width": 192,
+    "height": 192,
+    "sha256": "B732ABD19F0D00AAC9B9FE1A30F1ADB713082D6C8484251B281C3B2AD2C14281"
+  },
+  {
+    "name": "马超",
+    "tier": 3,
+    "camp": "三分之地",
+    "sourceUrl": "https://www.sovipai.com/assets/hero/5181.png",
+    "path": "棋子头像/马超.png",
+    "width": 192,
+    "height": 192,
+    "sha256": "2D1612A5117CE5878FC5B5A9755FD279BBFB70F3A4C6F6470E7B1B4DC8607BEF"
+  },
+  {
+    "name": "西施",
+    "tier": 3,
+    "camp": "逐鹿",
+    "sourceUrl": "https://www.sovipai.com/assets/hero/5231.png",
+    "path": "棋子头像/西施.png",
+    "width": 192,
+    "height": 192,
+    "sha256": "2C0D7C9ECA962F8C66AA4FCE0CF22ECF8102E6F6D7D33B144B5F76791C61C3CE"
+  },
+  {
+    "name": "镜",
+    "tier": 3,
+    "camp": "逐鹿",
+    "sourceUrl": "https://www.sovipai.com/assets/hero/5311.png",
+    "path": "棋子头像/镜.png",
+    "width": 192,
+    "height": 192,
+    "sha256": "A134D13939DDF4E7A01637F1591CB886ADADD7F80809BB5E8DC9E969E86CDE56"
+  },
+  {
+    "name": "姬小满",
+    "tier": 3,
+    "camp": "日落海",
+    "sourceUrl": "https://www.sovipai.com/assets/hero/5641.png",
+    "path": "棋子头像/姬小满.png",
+    "width": 192,
+    "height": 192,
+    "sha256": "9F8B9F0AD652E013626967879F0D3072BA35D1275D1BA5DF253E9BCA2A5E7F5F"
+  },
+  {
+    "name": "少司缘",
+    "tier": 3,
+    "camp": "大河流域",
+    "sourceUrl": "https://www.sovipai.com/assets/hero/5771.png",
+    "path": "棋子头像/少司缘.png",
+    "width": 192,
+    "height": 192,
+    "sha256": "CB25DC984D887B7E66A0CB1771826295EEA54181C9294EBBA264A0972812C48B"
+  },
+  {
+    "name": "廉颇",
+    "tier": 2,
+    "camp": "逐鹿",
+    "sourceUrl": "https://www.sovipai.com/assets/hero/1051.png",
+    "path": "棋子头像/廉颇.png",
+    "width": 192,
+    "height": 192,
+    "sha256": "F99BDE8DB8B1775981E31E14269618AAADA0A5EEF3854B11A8C3DA42B8D3E186"
+  },
+  {
+    "name": "赵云",
+    "tier": 2,
+    "camp": "三分之地",
+    "sourceUrl": "https://www.sovipai.com/assets/hero/1071.png",
+    "path": "棋子头像/赵云.png",
+    "width": 192,
+    "height": 192,
+    "sha256": "4D76B28245D5089BEB2AB93348B8EEEC6C34071029DB9D1D64777435CBA98BE5"
+  },
+  {
+    "name": "墨子",
+    "tier": 2,
+    "camp": "逐鹿",
+    "sourceUrl": "https://www.sovipai.com/assets/hero/1081.png",
+    "path": "棋子头像/墨子.png",
+    "width": 192,
+    "height": 192,
+    "sha256": "19C0154C635B9E6E13B5025C148705189B2522F23D699B6B718859A795FC1652"
+  },
+  {
+    "name": "芈月",
+    "tier": 2,
+    "camp": "逐鹿",
+    "sourceUrl": "https://www.sovipai.com/assets/hero/1211.png",
+    "path": "棋子头像/芈月.png",
+    "width": 192,
+    "height": 192,
+    "sha256": "9ECD8F023C9A8382FB466356B45E71E6B397EBBFDD003A6A731B387E2FCA6382"
+  },
+  {
+    "name": "曹操",
+    "tier": 2,
+    "camp": "三分之地",
+    "sourceUrl": "https://www.sovipai.com/assets/hero/1281.png",
+    "path": "棋子头像/曹操.png",
+    "width": 192,
+    "height": 192,
+    "sha256": "3975A189E71010FE4AA904D7B28774580639359AE3E7A688BC6AB2B915588401"
+  },
+  {
+    "name": "马可波罗",
+    "tier": 2,
+    "camp": "日落海",
+    "sourceUrl": "https://www.sovipai.com/assets/hero/1321.png",
+    "path": "棋子头像/马可波罗.png",
+    "width": 192,
+    "height": 192,
+    "sha256": "DE0C2B461BC5105139EA38D838FDBEAFDD6E0752F35FA93F206AB173408D4B93"
+  },
+  {
+    "name": "项羽",
+    "tier": 2,
+    "camp": "大河流域",
+    "sourceUrl": "https://www.sovipai.com/assets/hero/1351.png",
+    "path": "棋子头像/项羽.png",
+    "width": 192,
+    "height": 192,
+    "sha256": "F0397AA9C47DA06DC4864959217F499102A9A25F4B3BF99D2F83C714B46133ED"
+  },
+  {
+    "name": "虞姬",
+    "tier": 2,
+    "camp": "大河流域",
+    "sourceUrl": "https://www.sovipai.com/assets/hero/1741.png",
+    "path": "棋子头像/虞姬.png",
+    "width": 192,
+    "height": 192,
+    "sha256": "763CE22C3A1E19485BAB8C94EC51AB57469B45AB8849B718762552D6CB865D3A"
+  },
+  {
+    "name": "蔡文姬",
+    "tier": 2,
+    "camp": "三分之地",
+    "sourceUrl": "https://www.sovipai.com/assets/hero/1841.png",
+    "path": "棋子头像/蔡文姬.png",
+    "width": 192,
+    "height": 192,
+    "sha256": "32198BAB608766ED7A6C72C76A6C30C91CB840A8D49D3756FA458D1EBAC80EEC"
+  },
+  {
+    "name": "鬼谷子",
+    "tier": 2,
+    "camp": "大河流域",
+    "sourceUrl": "https://www.sovipai.com/assets/hero/1891.png",
+    "path": "棋子头像/鬼谷子.png",
+    "width": 192,
+    "height": 192,
+    "sha256": "F86B30818750C742A35B46718B4D6127A06180A50530FF994A538EF8AB304767"
+  },
+  {
+    "name": "大乔",
+    "tier": 2,
+    "camp": "三分之地",
+    "sourceUrl": "https://www.sovipai.com/assets/hero/1911.png",
+    "path": "棋子头像/大乔.png",
+    "width": 192,
+    "height": 192,
+    "sha256": "7ECCE73F8E0AA32025CC8AA3CE5B87325B2EB828A0EF4F99DC35C44C0C503278"
+  },
+  {
+    "name": "百里玄策",
+    "tier": 2,
+    "camp": "河洛",
+    "sourceUrl": "https://www.sovipai.com/assets/hero/1951.png",
+    "path": "棋子头像/百里玄策.png",
+    "width": 192,
+    "height": 192,
+    "sha256": "84EF166A5C283CA366A6F153C9701890F3CC059F81CCE1ADD903BFEB4B3916D3"
+  },
+  {
+    "name": "百里守约",
+    "tier": 2,
+    "camp": "河洛",
+    "sourceUrl": "https://www.sovipai.com/assets/hero/1961.png",
+    "path": "棋子头像/百里守约.png",
+    "width": 192,
+    "height": 192,
+    "sha256": "D890179A72B93C8574EB2F66E0986DF7E841010B922690E0642A5DF06553C7C2"
+  },
+  {
+    "name": "梦奇",
+    "tier": 2,
+    "camp": "无阵营",
+    "sourceUrl": "https://www.sovipai.com/assets/hero/1981.png",
+    "path": "棋子头像/梦奇.png",
+    "width": 192,
+    "height": 192,
+    "sha256": "DD84EB58D7AA845287A32E30A6D5B717BE4634D269DD58940573A4481C7F833A"
+  },
+  {
+    "name": "公孙离",
+    "tier": 2,
+    "camp": "无阵营",
+    "sourceUrl": "https://www.sovipai.com/assets/hero/1991.png",
+    "path": "棋子头像/公孙离.png",
+    "width": 192,
+    "height": 192,
+    "sha256": "5EE1CBEEFAAE45C5A41375F8B6C5D4046AFEA4C8E1F71194C55B0104F9FABA63"
+  },
+  {
+    "name": "沈梦溪",
+    "tier": 2,
+    "camp": "河洛",
+    "sourceUrl": "https://www.sovipai.com/assets/hero/3121.png",
+    "path": "棋子头像/沈梦溪.png",
+    "width": 192,
+    "height": 192,
+    "sha256": "FDA60B703BACB8B8EC384574D7CB279AEB3D15FBCECADFF4BC2E16FF96E3DABD"
+  },
+  {
+    "name": "米莱狄",
+    "tier": 2,
+    "camp": "日落海",
+    "sourceUrl": "https://www.sovipai.com/assets/hero/5041.png",
+    "path": "棋子头像/米莱狄.png",
+    "width": 192,
+    "height": 192,
+    "sha256": "38EF30E69C74CC61847B36D8A5CAD3280BE519D97ECB699D6C2C9D833714703F"
+  },
+  {
+    "name": "盾山",
+    "tier": 2,
+    "camp": "河洛",
+    "sourceUrl": "https://www.sovipai.com/assets/hero/5091.png",
+    "path": "棋子头像/盾山.png",
+    "width": 192,
+    "height": 192,
+    "sha256": "DBF0C7DF1F37C7F91B743A4A4DAE8854B17EFF2083736C592FBF24F8BB6C89AD"
+  },
+  {
+    "name": "亚连",
+    "tier": 2,
+    "camp": "日落海",
+    "sourceUrl": "https://www.sovipai.com/assets/hero/5141.png",
+    "path": "棋子头像/亚连.png",
+    "width": 192,
+    "height": 192,
+    "sha256": "1BE578097277EB41C1B4EA27CE0728B97D265A92039F58634347341F7A6B0A2C"
+  },
+  {
+    "name": "蒙恬",
+    "tier": 2,
+    "camp": "逐鹿",
+    "sourceUrl": "https://www.sovipai.com/assets/hero/5271.png",
+    "path": "棋子头像/蒙恬.png",
+    "width": 192,
+    "height": 192,
+    "sha256": "A6B52D792EBAFE43270E02955BCEAA39F33D30E2CFE3AEAF71EE00AF568092A1"
+  },
+  {
+    "name": "孙尚香",
+    "tier": 1,
+    "camp": "三分之地",
+    "sourceUrl": "https://www.sovipai.com/assets/hero/1111.png",
+    "path": "棋子头像/孙尚香.png",
+    "width": 192,
+    "height": 192,
+    "sha256": "A4189F5B51BD4CFBE6AFC7527962568B83F4760E003C0776DC85F23F75BE1688"
+  },
+  {
+    "name": "孙膑",
+    "tier": 1,
+    "camp": "逐鹿",
+    "sourceUrl": "https://www.sovipai.com/assets/hero/1181.png",
+    "path": "棋子头像/孙膑.png",
+    "width": 192,
+    "height": 192,
+    "sha256": "494A5B405175831444CF6526A36D8AC5750BDB89AEC0B7FD968FEA283B1F6567"
+  },
+  {
+    "name": "牛魔",
+    "tier": 1,
+    "camp": "无阵营",
+    "sourceUrl": "https://www.sovipai.com/assets/hero/1681.png",
+    "path": "棋子头像/牛魔.png",
+    "width": 192,
+    "height": 192,
+    "sha256": "187BFDA9590CEC0C7EE39462AAA53F0D510033E0E95352F4C7A92C78936D73E6"
+  },
+  {
+    "name": "李元芳",
+    "tier": 1,
+    "camp": "河洛",
+    "sourceUrl": "https://www.sovipai.com/assets/hero/1731.png",
+    "path": "棋子头像/李元芳.png",
+    "width": 192,
+    "height": 192,
+    "sha256": "B778FD946A48C13E2DEF7DDB13AF2222E056B42C10D5CBBFFBDFC7F630E41A30"
+  },
+  {
+    "name": "干将莫邪",
+    "tier": 1,
+    "camp": "大河流域",
+    "sourceUrl": "https://www.sovipai.com/assets/hero/1821.png",
+    "path": "棋子头像/干将莫邪.png",
+    "width": 192,
+    "height": 192,
+    "sha256": "75728A81C5C7D23405443C7F0B081C8204F0324BCD28D87D393C438FE34F2E66"
+  },
+  {
+    "name": "苏烈",
+    "tier": 1,
+    "camp": "河洛",
+    "sourceUrl": "https://www.sovipai.com/assets/hero/1941.png",
+    "path": "棋子头像/苏烈.png",
+    "width": 192,
+    "height": 192,
+    "sha256": "C42FFA5677970F9C0781CDB5F244867328799702FBD2DB9ECB09D0B98CC6F056"
+  },
+  {
+    "name": "弈星",
+    "tier": 1,
+    "camp": "无阵营",
+    "sourceUrl": "https://www.sovipai.com/assets/hero/1971.png",
+    "path": "棋子头像/弈星.png",
+    "width": 192,
+    "height": 192,
+    "sha256": "91EAB46DE648D83B86D463C0512C6622BEF7DCBD2295EFB9C7FE82D74FD42FD3"
+  },
+  {
+    "name": "狂铁",
+    "tier": 1,
+    "camp": "日落海",
+    "sourceUrl": "https://www.sovipai.com/assets/hero/5031.png",
+    "path": "棋子头像/狂铁.png",
+    "width": 192,
+    "height": 192,
+    "sha256": "B754F9839925AA55F7AC203E10ACC72AAA9EB9DD2DF724111806BF1CB1C9199B"
+  },
+  {
+    "name": "曜",
+    "tier": 1,
+    "camp": "逐鹿",
+    "sourceUrl": "https://www.sovipai.com/assets/hero/5221.png",
+    "path": "棋子头像/曜.png",
+    "width": 192,
+    "height": 192,
+    "sha256": "F15BD2C800B929B1D92273FA3636D276F16726C48E4B24FDAFD5BCB2F11BF46D"
+  }
+]
